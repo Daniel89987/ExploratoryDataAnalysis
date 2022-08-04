@@ -1,1 +1,2 @@
-# ExploratoryDataAnalysis
+# Introduction
+Houses could be the most valuable asset for most people, and different areas with different variables will affect the prices of the housing prices of those areas. To anaylsis what variables have a direct impact on the housing prices in an area, a dataset with many values related to various areas' housing markets are incredible important to accomplish this, and that is what our dataset is trying to answer by providing tons of data on the US housing market.
