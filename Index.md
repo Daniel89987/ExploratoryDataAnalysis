@@ -1,5 +1,0 @@
-# Introduction
-Houses could be the most valuable asset for most people, and different areas with different variables will affect the prices of the housing prices of those areas. To anaylsis what variables have a direct impact on the housing prices in an area, a dataset with many values related to various areas' housing markets are incredible important to accomplish this, and that is what our dataset is trying to answer by providing tons of data on the US housing market.
-
-# Summary
-From our calculating, we collected a list of information related to our USA housing dataset. We summarized that the maximum house price is 2469066 dollars, the minimum house price is 15938.66 dollars, total average of house price is 1232073 dollars, the total average of household income is 68583.11 dollars, the total average of house age is 5.977222 year.
