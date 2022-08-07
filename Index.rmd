@@ -27,12 +27,24 @@ significantly more people live in them. However, it would seem that more people
 live in houses that are roughly 6 years old more than houses in any other age.
 
 # Charts
-![First ScatterPlot](Scatterplot.png)
+![First chart ScatterPlot](Scatterplot.png)
 The first plot is made with the house price as its y value and the area 
 population of the said houses. The purpose of the chart is to show the
 relationship between the house prices and the population of the area in 
 which the houses are. From the chart, it is clear that there is a 
-positive correlation between the house price and the population of the are 
+positive correlation between the house price and the population of the area 
 where the houses are. Thus, houses are tend to be more expensive if 
 the population of the area is higher, possibly for the landowners to earn 
 more profits.
+
+
+![Second chart bar_chart](Bar_chart.png)
+The purpose of this chart is that we want to explore whether older houses
+have more people living in, and what age houses are most preferred by 
+people. Before I draw the chart, I have rounded all the house age to an
+integer so that it will help me to draw and explained the graph better.
+As the graph show, we can easily see the population is increasing from 0 
+years house to 6 years house and then the population is decreasing from 6
+years house to 10 years house. Overall, the sixth years house is the most
+popular house age. We think that People don't like houses that are too new
+or too old.

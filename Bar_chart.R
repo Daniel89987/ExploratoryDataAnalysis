@@ -4,4 +4,5 @@ library(plotly)
 house_age_df <- read.csv("USA_Housing.csv")
 house_age_df$Avg..Area.House.Age <- round(house_age_df$Avg..Area.House.Age)
 plot_ly(data = house_age_df, x = ~Avg..Area.House.Age, y = ~Area.Population, 
-        text = ~Address, type = "bar")
+        text = ~Address, type = "bar")%>%
+  layout(title = "Population In Different House Age", plot_bgcolor = "#e5ecf6")
