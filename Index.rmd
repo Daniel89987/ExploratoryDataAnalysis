@@ -48,3 +48,11 @@ years house to 6 years house and then the population is decreasing from 6
 years house to 10 years house. Overall, the sixth years house is the most
 popular house age. We think that People don't like houses that are too new
 or too old.
+
+![Third chart Piechart](Piechart.png)
+The third chat is a pie chart which describes the percentage of different age 
+of houses from 3 to 10 years.The purpose of this pie chart is going describe 
+what age's house popular in the US from our dataset and it could help the 
+future house buyers decision. Because house age make a huge difference such as 
+the house features, public facility, and the community quality. From the chart,
+we can tell 6 years old house is more popular in the US from our dataset. 
