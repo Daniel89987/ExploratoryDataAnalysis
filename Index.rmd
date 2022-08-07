@@ -25,3 +25,14 @@ age ranges that people live in. From the table, we can see that the older the
 house age is, the less people live in them, while the newer houses have
 significantly more people live in them. However, it would seem that more people
 live in houses that are roughly 6 years old more than houses in any other age.
+
+# Charts
+![First ScatterPlot](Scatterplot.png)
+The first plot is made with the house price as its y value and the area 
+population of the said houses. The purpose of the chart is to show the
+relationship between the house prices and the population of the area in 
+which the houses are. From the chart, it is clear that there is a 
+positive correlation between the house price and the population of the are 
+where the houses are. Thus, houses are tend to be more expensive if 
+the population of the area is higher, possibly for the landowners to earn 
+more profits.
