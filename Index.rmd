@@ -6,7 +6,7 @@ output:
 # Introduction
 Houses could be the most valuable asset for most people, and different areas
 with different variables will affect the prices of the housing prices of those
-areas. To anaylsis what variables have a direct impact on the housing prices in
+areas. To analyze what variables have a direct impact on the housing prices in
 an area, a dataset with many values related to various areas' housing markets
 are incredible important to accomplish this, and that is what our dataset is
 trying to answer by providing tons of data on the US housing market.
@@ -33,9 +33,9 @@ population of the said houses. The purpose of the chart is to show the
 relationship between the house prices and the population of the area in 
 which the houses are. From the chart, it is clear that there is a 
 positive correlation between the house price and the population of the area 
-where the houses are. Thus, houses are tend to be more expensive if 
-the population of the area is higher, possibly for the landowners to earn 
-more profits.
+where the houses are. Thus, houses are tend to be more expensive 
+since the high demand due to the high population, possibly for the landowners 
+to earn more profits.
 
 
 ![Second chart bar_chart](Bar_chart.png)
@@ -43,16 +43,17 @@ The purpose of this chart is that we want to explore whether older houses
 have more people living in, and what age houses are most preferred by 
 people. Before I draw the chart, I have rounded all the house age to an
 integer so that it will help me to draw and explained the graph better.
-As the graph show, we can easily see the population is increasing from 0 
+As the graph show, we can easily see the population is increasing from 3 
 years house to 6 years house and then the population is decreasing from 6
 years house to 10 years house. Overall, the sixth years house is the most
 popular house age. We think that People don't like houses that are too new
 or too old.
 
 ![Third chart Piechart](Piechart.png)
-The third chat is a pie chart which describes the percentage of different age 
-of houses from 3 to 10 years.The purpose of this pie chart is going describe 
-what age's house popular in the US from our dataset and it could help the 
-future house buyers decision. Because house age make a huge difference such as 
-the house features, public facility, and the community quality. From the chart,
-we can tell 6 years old house is more popular in the US from our dataset. 
+The third chat is a pie chart which describes the percentage of house price in 
+different age of houses from 3 to 10 years.The purpose of this pie chart is 
+going to describe what age's house have the most value in the housing market 
+and it could help the future house buyers decision. Because house age make a 
+huge difference such as the house features, public facility, and the community 
+quality. From the chart,we can tell 6 years old houses are most valuable in 
+the US housing dataset. 
